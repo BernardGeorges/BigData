@@ -18,3 +18,7 @@ Datasets utilizados:
 Biblioteca 'time' para Python e para PySpark com conversão do dataset para formato Parquet
 
 ### Aula 4: Introdução do ficheiro Parquet numa base de dados (MongoDB)
+
+Introdução do ficheiro Parquet no MongoDB
+
+### Aula 5: Escrita do relatório/artigo científico até à secção de povoamento
