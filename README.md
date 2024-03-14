@@ -21,4 +21,4 @@ Biblioteca 'time' para Python e para PySpark com conversão do dataset para form
 
 Introdução do ficheiro Parquet no MongoDB
 
-### Aula 5: Escrita do relatório/artigo científico até à secção de povoamento
+### Aula 5: Escrita do relatório/artigo científico até à secção de povoamento (?)
