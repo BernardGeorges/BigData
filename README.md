@@ -15,4 +15,6 @@ Datasets utilizados:
 
 ### Aula 3: Medição do tempo com Python vs Spark
 
-Biblioteca 'timer' para Python e para PySpark
+Biblioteca 'time' para Python e para PySpark com conversão do dataset para formato Parquet
+
+### Aula 4: Introdução do ficheiro Parquet numa base de dados (MongoDB)
