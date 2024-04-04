@@ -26,3 +26,7 @@ Introdução do ficheiro ~~Parquet~~ **CSV** no MongoDB
 ### Aula 5: Escrita do relatório/artigo científico até à secção dos materiais - povoamento
 
 ### Aula 6: Instalação do PowerBI para gestão da base de dados criada previamente
+
+### Aula 7: Construção dos dashboards do PowerBI
+
+### Aula 8: Concluir secção dos métodos do relatório: Arquitetura e estrutura dos dados
