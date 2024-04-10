@@ -1,10 +1,10 @@
 # Análise Inteligente em Sistemas de "Big Data"
 
-### Aula 1: Escolha do tema
+### Aula 1 (15 de fevereiro): Escolha do tema
 
 **Tema escolhido**: Impacto do crescimento económico na poluição atmosférica
   
-### Aula 2: Junção dos datasets
+### Aula 2 (22 de fevereiro): Junção dos datasets
 
 Datasets utilizados:
 - Efeito de estufa
@@ -15,18 +15,18 @@ Datasets utilizados:
 - Rendimentos do PIB
 - Produção do PIB
 
-### Aula 3: Medição do tempo com Python vs Spark
+### Aula 3 (29 de fevereiro): Medição do tempo com Python vs Spark
 
 Biblioteca '*time*' para Python e para PySpark com conversão do dataset para formato Parquet (*Nota: PySpark não deu*)
 
-### Aula 4: Introdução do ficheiro Parquet numa base de dados (MongoDB)
+### Aula 4 (7 de março): Introdução do ficheiro Parquet numa base de dados (MongoDB)
 
 Introdução do ficheiro ~~Parquet~~ **CSV** no MongoDB
 
-### Aula 5: Escrita do relatório/artigo científico até à secção dos materiais - povoamento
+### Aula 5 (14 de março): Escrita do relatório/artigo científico até à secção dos materiais - povoamento
 
-### Aula 6: Instalação do PowerBI para gestão da base de dados criada previamente
+### Aula 6 (21 de março): Instalação do PowerBI para gestão da base de dados criada previamente
 
-### Aula 7: Construção dos dashboards do PowerBI
+### Aula 7 (4 de abril): Construção dos dashboards do PowerBI
 
-### Aula 8: Concluir secção dos métodos do relatório: Arquitetura e estrutura dos dados
+### Aula 8 (11 de abril): Concluir secção dos métodos do relatório: Arquitetura e estrutura dos dados
