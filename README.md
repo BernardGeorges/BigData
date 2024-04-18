@@ -23,10 +23,12 @@ Biblioteca '*time*' para Python e para PySpark com conversão do dataset para fo
 
 Introdução do ficheiro ~~Parquet~~ **CSV** no MongoDB
 
-### Aula 5 (14 de março): Escrita do relatório/artigo científico até à secção dos materiais - povoamento
+### Aula 5 (14 de março): Escrita do artigo científico até à secção dos materiais - povoamento
 
 ### Aula 6 (21 de março): Instalação do PowerBI para gestão da base de dados criada previamente
 
 ### Aula 7 (4 de abril): Construção dos dashboards do PowerBI
 
-### Aula 8 (11 de abril): Concluir secção dos métodos do relatório: Arquitetura e estrutura dos dados
+### Aula 8 (11 de abril): Concluir secção dos métodos do artigo: Arquitetura e estrutura dos dados
+
+### Aula 9 (18 de abril): Continuar trabalho das aulas anteriores
